@@ -24,6 +24,10 @@ header {
   text-align      : center;
 }
 
+header img {
+  padding-bottom: 1.5em;
+}
+
 /* Style for nav specifies text properties */
 nav {
   font-family     : Georgia, "Times New Roman", serif;
@@ -405,11 +409,13 @@ label {
     text-align: left;
   }
 
+
+
   /* Style for nav specifies a float, margin, and width */
   nav {
     float: right;
     margin-top: -7em;
-    margin-right: 3em;
+    margin-right: 1em;
     margin-bottom: 0;
     width: 65%;
   }
